@@ -93,7 +93,7 @@ Dự án được xây dựng nhằm đáp ứng trải nghiệm mua sắm trự
 ## 4. Cấu trúc thư mục (Project Structure)
 
 ```text
-shoe-store-webapp/
+shoe-sales-website/
 ├── client/                     # Mã nguồn ứng dụng Frontend (React + Vite)
 │   ├── public/                 # Tài nguyên tĩnh công khai (ảnh, icons)
 │   ├── src/
